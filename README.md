@@ -5,7 +5,12 @@
 <a href="https://jacquesgomes.com.br/dev/" target="_blank"><img align="left" alt="jacques.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/jacques-gomes-627739240/" target="_blank"><img align="left" alt="Jacques Gomes | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/jacquesgomes1/" target="_blank"><img align="left" alt="Jacques Gomes | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<br>
+
+  <br>
+  <br>
+  <br>
+  
+  
 <p align="center">
 <a href="https://github.com/JacquesGomes">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
