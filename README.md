@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+### Olá! Bem vindo!
+
+<a href="https://jacquesgomes.com.br/dev/" target="_blank"><img align="left" alt="jacques.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://www.linkedin.com/in/jacques-gomes-627739240/" target="_blank"><img align="left" alt="Jacques Gomes | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/jacquesgomes1/" target="_blank"><img align="left" alt="Jacques Gomes | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <p align="center">
 <a href="https://github.com/JacquesGomes">
@@ -7,9 +13,6 @@
 </a>
 </p>
 
-<a href="https://jacquesgomes.com.br/dev/" target="_blank"><img align="left" alt="jacques.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://www.linkedin.com/in/jacques-gomes-627739240/" target="_blank"><img align="left" alt="Jacques Gomes | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/jacquesgomes1/" target="_blank"><img align="left" alt="Jacques Gomes | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <!--
 **JacquesGomes/JacquesGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
