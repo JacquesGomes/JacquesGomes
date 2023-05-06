@@ -13,7 +13,7 @@
   
 <p align="center">
 <a href="https://github.com/JacquesGomes">
-  <img width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JacquesGomes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
