@@ -1,26 +1,22 @@
-
-
-
 ### Olá! Seja bem vindo!
 
 <ul>
-<li>
-<p> :globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/"> Portfólio</a></p>
-</li>
-<li>
-<p> :scissors: <a href="https://jacquesgomes.com.br/jsgames/" >Pedra, papel ou tesoura</a>
-</p>
-</li>
-<li>
-<p>:pencil2: <a href="https://jacquesgomes.com.br/sketch">Quadro mágico</a></p>
-</li>
-<li>
-<p> :bust_in_silhouette: <a href="https://jacquesgomes.com.br/signup-robot"> Tela de login </a></p>
-</li>
-<li>
-<p> :1234: <a href="https://jacquesgomes.com.br/calc">Calculadora </a></p>
-</li>
-<ul>
+  <li>
+    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/"> Portfólio</a></p>
+  </li>
+  <li>
+    <p>:scissors: <a href="https://jacquesgomes.com.br/jsgames/">Pedra, papel ou tesoura</a></p>
+  </li>
+  <li>
+    <p>:pencil2: <a href="https://jacquesgomes.com.br/sketch">Quadro mágico</a></p>
+  </li>
+  <li>
+    <p>:bust_in_silhouette: <a href="https://jacquesgomes.com.br/signup-robot">Tela de login</a></p>
+  </li>
+  <li>
+    <p>:1234: <a href="https://jacquesgomes.com.br/calc">Calculadora</a></p>
+  </li>
+</ul>
 
 ---
   
@@ -34,11 +30,10 @@
 ---
 
 ## Links úteis
+
 <div align="center">
-
-<a href="https://www.linkedin.com/in/jacques-gomes-627739240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/jacquesgomesadv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:jacquesgomesadv@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://wa.me/5584994514529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
+  <a href="https://www.linkedin.com/in/jacques-gomes-627739240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/jacquesgomesadv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:jacquesgomesadv@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://wa.me/5584994514529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
