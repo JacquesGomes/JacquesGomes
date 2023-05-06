@@ -1,14 +1,36 @@
 
 
+
 ### Olá! Seja bem vindo!
 
-<a href="https://jacquesgomes.com.br/dev/" target="_blank"><img align="left" alt="jacques.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://www.linkedin.com/in/jacques-gomes-627739240/" target="_blank"><img align="left" alt="Jacques Gomes | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/jacquesgomesadv/" target="_blank"><img align="left" alt="Jacques Gomes | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
-  <br>
-  <br>
-  <br>
+<ul>
+<li>
+<p> :globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/"> Portfólio</a></p>
+</li>
+
+<li>
+<p> :scissors: <a href="https://jacquesgomes.com.br/jsgames/" >Pedra, papel ou tesoura</a>
+</p>
+</li>
+
+<li>
+<p>:pencil2: <a href="https://jacquesgomes.com.br/sketch">Quadro mágico</a></p>
+</li>
+
+<li>
+<p> :bust_in_silhouette: <a href="https://jacquesgomes.com.br/signup-robot"> Tela de login </a></p>
+</li>
+
+<li>
+<p> :1234: <a href="https://jacquesgomes.com.br/calc">Calculadora </a></p>
+</li>
+
+<ul>
+
+---
+
+  
   
   
 <p align="center">
@@ -18,18 +40,14 @@
 </a>
 </p>
 
+---
 
-<!--
-**JacquesGomes/JacquesGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links úteis
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/jacques-gomes-627739240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/jacquesgomesadv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:jacquesgomesadv@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://wa.me/5584994514529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
