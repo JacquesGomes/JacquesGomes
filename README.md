@@ -2,7 +2,10 @@
 
 <ul>
   <li>
-    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio</a></p>
+    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web</a></p>
+  </li>
+  <li>
+    <p>:necktie: <a href="https://jacquesgomes.com.br/adv/" target="_blank"> Advocacia (site pessoal)</a></p>
   </li>
   <li>
     <p>:scissors: <a href="https://jacquesgomes.com.br/jsgames/" target="_blank">Pedra, papel ou tesoura</a></p>
