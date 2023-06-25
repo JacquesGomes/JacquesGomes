@@ -5,7 +5,7 @@
     <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web</a></p>
   </li>
   <li>
-    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/form" target="_blank"> Login + Dashboard (Projeto fullstack) </a></p>
+    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/login" target="_blank"> Login + Dashboard (Projeto fullstack) </a></p>
   </li>
   <li>
     <p>:necktie: <a href="https://jacquesgomes.com.br/adv/" target="_blank"> Advocacia (site pessoal)</a></p>
