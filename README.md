@@ -8,6 +8,9 @@
     <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/login" target="_blank"> Login + Dashboard (Projeto fullstack) </a></p>
   </li>
   <li>
+    <p>:rage: <a href="https://jacquesgomes.com.br/testes/teste1/" target="_blank"> Brincando com a API do Chuck Norris e React </a></p>
+  </li>
+  <li>
     <p>:necktie: <a href="https://jacquesgomes.com.br/adv/" target="_blank"> Advocacia (site pessoal)</a></p>
   </li>
   <li>
