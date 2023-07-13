@@ -1,7 +1,6 @@
 ### Olá! Seja bem-vindo!
 
-#### Meu foco atual é desenvolver projetos com React + Java. Estou trabalhando em projetos com essas tecnologias.
-
+#### Meu foco atual é desenvolver projetos com React + Java.
 <ul>
   <li>
     <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web</a></p>
