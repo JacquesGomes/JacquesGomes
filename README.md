@@ -2,8 +2,11 @@
 
 #### Meu foco atual é desenvolver projetos com React + Java.
 <ul>
+    <li>
+    <p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio Web (novo) - Em React</a></p>
+  </li>
   <li>
-    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web</a></p>
+    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web (antigo)</a></p>
   </li>
   <li>
     <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/login" target="_blank"> Login + Dashboard (Projeto fullstack) </a></p>
