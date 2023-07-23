@@ -50,3 +50,10 @@
   <a href="mailto:jacquesgomesadv@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://wa.me/5584994514529" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JacquesGomes&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=09ffda&bg_color=0d1117" alt="Jacques Gomes github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesGomes&layout=compact&hide_border=true&title_color=9932CC&text_color=09ffda&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JacquesGomes&bg_color=0d1117&color=BA55D3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
