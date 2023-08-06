@@ -1,6 +1,8 @@
 ### Olá! Seja bem-vindo!
 
-#### Meu foco atual é desenvolver projetos com React + Java.
+### Meu foco atual é desenvolver projetos com React + Java.
+
+##### Projetos recentes
 <ul>
     <li>
     <p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/quizTech/" target="_blank"> Quiz App) - Em React</a></p>
@@ -14,7 +16,7 @@
 
 </ul>
 
-##### Antigo
+##### Projetos antigos
 <ul>
   <li>
     <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web (antigo)</a></p>
