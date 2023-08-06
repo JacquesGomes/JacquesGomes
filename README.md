@@ -3,6 +3,9 @@
 #### Meu foco atual é desenvolver projetos com React + Java.
 <ul>
     <li>
+    <p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/quizTech/" target="_blank"> Quiz App) - Em React</a></p>
+  </li>
+    <li>
     <p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio Web (novo) - Em React</a></p>
   </li>
   <li>
