@@ -12,7 +12,10 @@
     <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/login" target="_blank"> Login + Dashboard (Projeto fullstack) - PHP + MySQL + Vanilla Js + CSS + HTML </a></p>
   </li>
 
-    <h3>Antigo</h3>
+</ul>
+
+##### Antigo
+<ul>
   <li>
     <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web (antigo)</a></p>
   </li>
