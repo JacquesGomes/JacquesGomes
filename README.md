@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo!
+## Olá! Seja bem-vindo!
 
 ### Meu foco atual é desenvolver projetos com React + Java.
 
