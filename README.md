@@ -13,7 +13,11 @@
   </li>    
 
 <li>
-<p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio Web (novo) - Em React</a></p>
+<p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio Web (novo) - React</a></p>
+</li>
+
+<li>
+<p>:books: <a href="https://jacquesgomes.com.br/portalEducacional" target="_blank"> Portal Educacional - React</a></p>
 </li>
   
 <li>
