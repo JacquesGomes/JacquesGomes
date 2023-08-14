@@ -8,15 +8,16 @@
     <p>:page_facing_up: <a href="https://jacquesgomes.com.br/quizTech/" target="_blank"> Quiz App - React + Java</a></p>
   </li>
     
-    <li>
-    <p>:chart_with_upwards_trend: <a href="https://jacquesgomes.com.br/despesas/" target="_blank"> Gerenciador de despesas - React</a></p>
+<li>
+<p>:chart_with_upwards_trend: <a href="https://jacquesgomes.com.br/despesas/" target="_blank"> Gerenciador de despesas - React</a></p>
   </li>    
+
+<li>
+<p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio Web (novo) - Em React</a></p>
+</li>
   
-    <li>
-    <p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio Web (novo) - Em React</a></p>
-  </li>
-    <li>
-    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/login" target="_blank"> Login + Dashboard (Projeto fullstack) - PHP + MySQL + Vanilla Js + CSS + HTML </a></p>
+<li>
+<p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/login" target="_blank"> Login + Dashboard (Projeto fullstack) - PHP + MySQL + Vanilla Js + CSS + HTML </a></p>
   </li>
 
 </ul>
