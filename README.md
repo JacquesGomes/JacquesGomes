@@ -61,7 +61,7 @@
 </p>
 
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesGomes)
+<a ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesGomes) </a>
 </div>
 
 ---
