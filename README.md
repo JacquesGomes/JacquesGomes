@@ -60,7 +60,9 @@
 </a>
 </p>
 
-<div align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesGomes)</div>
+<div align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesGomes)
+</div>
 
 ---
 
