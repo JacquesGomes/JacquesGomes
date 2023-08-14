@@ -55,9 +55,10 @@
   
 <p align="center">
 <a href="https://github.com/JacquesGomes">
-  <img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&count_private=true&title_color=09ffda&icon_color=09ffda&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JacquesGomes&layout=compact&langs_count=8&theme=algolia&show_icons=true&count_private=true&title_color=09ffda&icon_color=09ffda"/>
-    <img  src="https://streak-stats.demolab.com?user=JacquesGomes&theme=blueberry"/>
+  <img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&count_private=true&title_color=white&icon_color=white&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JacquesGomes&layout=compact&langs_count=8&theme=dark&show_icons=true&count_private=true&title_color=white&icon_color=white"/>
+
+<img  src="https://streak-stats.demolab.com?user=JacquesGomes&theme=dark"/>
 
 </a>
 
