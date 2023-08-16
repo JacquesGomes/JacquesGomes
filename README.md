@@ -26,31 +26,6 @@
 
 </ul>
 
-##### Projetos antigos
-<ul>
-  <li>
-    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web (antigo)</a></p>
-  </li>
-  <li>
-    <p>:rage: <a href="https://jacquesgomes.com.br/testes/teste1/" target="_blank"> Brincando com a API do Chuck Norris e React </a></p>
-  </li>
-  <li>
-    <p>:necktie: <a href="https://jacquesgomes.com.br/adv/" target="_blank"> Advocacia (site pessoal)</a></p>
-  </li>
-  <li>
-    <p>:scissors: <a href="https://jacquesgomes.com.br/jsgames/" target="_blank">Pedra, papel ou tesoura</a></p>
-  </li>
-  <li>
-    <p>:pencil2: <a href="https://jacquesgomes.com.br/sketch" target="_blank">Quadro mágico</a></p>
-  </li>
-  <li>
-    <p>:bust_in_silhouette: <a href="https://jacquesgomes.com.br/signup-robot" target="_blank">Tela de login</a></p>
-  </li>
-  <li>
-    <p>:1234: <a href="https://jacquesgomes.com.br/calc" target="_blank">Calculadora</a></p>
-  </li>
-</ul>
-
 ---
   
 <p align="center">
