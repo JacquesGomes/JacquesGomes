@@ -30,8 +30,19 @@
 
 http://149.100.142.12/quiz/swagger-ui/index.html#/ - Backend para uma página de questões sobre tecnologia.
 
+http://149.100.142.12/livraria/swagger-ui/index.html#/ - Backend para uma página de questões sobre tecnologia.
 
+http://149.100.142.12/academia/swagger-ui/index.html#/ - Backend para uma página de questões sobre tecnologia.
 
+http://149.100.142.12/tarefas/swagger-ui/index.html#/ - Backend para uma página de questões sobre tecnologia.
+
+/NotesMicroservice - 
+
+/Deploy de Java para Docker
+
+CRUD Java + Angular
+
+Angular Página de Login
 
 ##### Projetos antigos
 <ul>
