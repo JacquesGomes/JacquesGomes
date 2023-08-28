@@ -28,11 +28,17 @@
 
 ##### Backend em Java
 
-http://149.100.142.12/quiz/swagger-ui/index.html#/ - Backend para uma página de questões sobre tecnologia.
+<li>
+<p>:bookmark_tabs: <a href="http://149.100.142.12/quiz/swagger-ui/index.html" target="_blank"> Backend em Java de uma página de questões sobre tecnologia. </a></p>
+  </li>
 
-http://149.100.142.12/academia/swagger-ui/index.html#/ - Backend para uma página de questões sobre tecnologia.
+  <li>
+<p>:running: <a href="http://149.100.142.12/academia/swagger-ui/index.html" target="_blank"> Backend em Java para gerenciamento de uma academia.</a></p>
+  </li>
 
-http://149.100.142.12/tarefas/swagger-ui/index.html#/ - Backend para uma página de questões sobre tecnologia.
+  <li>
+<p>:clipboard: <a href="http://149.100.142.12/gerenciador/swagger-ui/index.html" target="_blank"> Backend em Java de uma página para gerenciamento de tarefas </a></p>
+  </li>
 
 /NotesMicroservice - 
 
