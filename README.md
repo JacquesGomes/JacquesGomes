@@ -27,7 +27,7 @@
 </ul>
 
 ##### Backend em Java
-
+<ul>
 <li>
 <p>:bookmark_tabs: <a href="http://149.100.142.12/quiz/swagger-ui/index.html" target="_blank"> Backend em Java de uma página de questões sobre tecnologia. </a></p>
   </li>
@@ -39,6 +39,7 @@
   <li>
 <p>:clipboard: <a href="http://149.100.142.12/gerenciador/swagger-ui/index.html" target="_blank"> Backend em Java de uma página para gerenciamento de tarefas </a></p>
   </li>
+</ul>
 
 /NotesMicroservice - 
 
