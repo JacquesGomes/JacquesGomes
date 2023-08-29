@@ -43,11 +43,7 @@
 
 /NotesMicroservice - 
 
-/Deploy de Java para Docker
-
 CRUD Java + Angular
-
-Angular Página de Login
 
 ##### Projetos antigos
 <ul>
