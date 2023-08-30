@@ -28,11 +28,12 @@
 
 ##### Java
 <ul>
+    
 <li>
 <p>:bookmark_tabs: <a href="http://149.100.142.12/quiz/swagger-ui/index.html" target="_blank"> Backend em Java de uma página com questões sobre tecnologia </a></p>
   </li>
   
-    <li>
+<li>
 <p>:bookmark_tabs: <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de notas </a> + <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de dcoumentos </a> Microsserviços para criação de notas e documentos, com uma relação de muitos para muitos entre notas e documentos (o serviço de notas se comunica com o de documentos - faltam alguns ajustes)</p>
   </li>
 
