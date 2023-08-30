@@ -34,11 +34,11 @@
   </li>
   
 <li>
-<p>:bookmark_tabs: <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de notas </a> + <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de documentos </a> - Microsserviços em Java para criação de notas e documentos, com uma relação de muitos para muitos entre notas e documentos (o serviço de notas se comunica com o de documentos - faltam alguns ajustes)</p>
+<p>:ledger: <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de notas </a> + <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de documentos </a> - Microsserviços em Java para criação de notas e documentos, com uma relação de muitos para muitos entre notas e documentos (o serviço de notas se comunica com o de documentos - faltam alguns ajustes)</p>
   </li>
 
   <li>
-<p>:running: <a href="https://github.com/JacquesGomes/CRUDJavaAngular" target="_blank"> CRUD Java + Angular</a></p>
+<p>:clipboard: <a href="https://github.com/JacquesGomes/CRUDJavaAngular" target="_blank"> CRUD Java + Angular - Gerenciador de tarefas </a></p>
   </li>
 
   <li>
