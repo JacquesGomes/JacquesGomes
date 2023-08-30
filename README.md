@@ -31,19 +31,24 @@
 <li>
 <p>:bookmark_tabs: <a href="http://149.100.142.12/quiz/swagger-ui/index.html" target="_blank"> Backend em Java de uma página com questões sobre tecnologia </a></p>
   </li>
-
-  <li>
-<p>:running: <a href="http://149.100.142.12/academia/swagger-ui/index.html" target="_blank"> Backend em Java para gerenciamento de uma academia</a></p>
+  
+    <li>
+<p>:bookmark_tabs: <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de notas </a> + <a href="http://149.100.142.12/notes/swagger-ui/index.html" target="_blank"> Microsserviço de dcoumentos </a> Microsserviços para criação de notas e documentos, com uma relação de muitos para muitos entre notas e documentos (o serviço de notas se comunica com o de documentos - faltam alguns ajustes)</p>
   </li>
 
   <li>
-<p>:clipboard: <a href="http://149.100.142.12/gerenciador/swagger-ui/index.html" target="_blank"> Backend em Java de uma página para gerenciamento de tarefas </a></p>
+<p>:running: <a href="https://github.com/JacquesGomes/CRUDJavaAngular" target="_blank"> CRUD Java + Angular</a></p>
   </li>
+
+  <li>
+<p>:running: <a href="https://github.com/JacquesGomes/GymAPI" target="_blank"> Backend em Java para gerenciamento de uma academia</a></p>
+  </li>
+
+  <li>
+<p>:clipboard: <a href="https://github.com/JacquesGomes/TaskManagerAPI" target="_blank"> Backend em Java de uma página para gerenciamento de tarefas </a></p>
+  </li>
+    
 </ul>
-
-/NotesMicroservice - 
-
-CRUD Java + Angular
 
 ##### Projetos antigos
 <ul>
