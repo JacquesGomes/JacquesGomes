@@ -38,7 +38,7 @@
   </li>
 
 <li>
-<p>:clipboard: <a href="https://github.com/JacquesGomes/CRUDJavaAngular" target="_blank"> Gerenciador de Tarefas - Angular + Java</a></p>
+<p>:clipboard: <a href="https://github.com/JacquesGomes/ProjectManagementAngularJava" target="_blank"> Gerenciador de Tarefas - Angular + Java</a></p>
   </li>
 
 <li>
