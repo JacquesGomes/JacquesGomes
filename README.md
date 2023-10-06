@@ -30,7 +30,7 @@
 <ul>
     
 <li>
-<p>:bookmark_tabs: <a href="https://github.com/JacquesGomes/ProjectManagementAngularJava" target="_blank"> Backend em Java de uma página com questões sobre tecnologia </a></p>
+<p>:bookmark_tabs: <a href="https://github.com/JacquesGomes/QuizAppJava" target="_blank"> Backend em Java de uma página com questões sobre tecnologia </a></p>
   </li>
   
 <li>
