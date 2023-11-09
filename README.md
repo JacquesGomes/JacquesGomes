@@ -76,33 +76,3 @@
   <a href="mailto:jacquesgomesadv@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://wa.me/5584994514529" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-
-/*
-##### Java
-<ul>
-    
-<li>
-<p>:bookmark_tabs: <a href="https://github.com/JacquesGomes/QuizAppJava" target="_blank"> Backend em Java de uma página com questões sobre tecnologia </a></p>
-  </li>
-  
-<li>
-<p>:ledger: <a href="https://github.com/JacquesGomes/NotesMicroservice" target="_blank"> Microsserviço de notas </a> + <a href="https://github.com/JacquesGomes/DocumentMicroservice"  target="_blank"> Microsserviço de documentos </a> - Microsserviços em Java para criação de notas e documentos, com uma relação de muitos para muitos entre notas e documentos (o serviço de notas se comunica com o de documentos - faltam alguns ajustes)</p>
-  </li>
-
-<li>
-<p>:clipboard: <a href="https://github.com/JacquesGomes/ProjectManagementAngularJava" target="_blank"> Gerenciador de Tarefas - Angular + Java</a></p>
-  </li>
-
-<li>
-<p>:clipboard: <a href="https://github.com/JacquesGomes/CRUDJavaAngular" target="_blank"> CRUD Java + Angular </a></p>
-  </li>
-
-<li>
-<p>:running: <a href="https://github.com/JacquesGomes/GymAPI" target="_blank"> Backend em Java para gerenciamento de uma academia</a></p>
-  </li>
-
-  <li>
-<p>:clipboard: <a href="https://github.com/JacquesGomes/TaskManagerAPI" target="_blank"> Backend em Java de uma página para gerenciamento de tarefas </a></p>
-  </li>
-    
-</ul>*/
