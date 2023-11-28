@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo!
 
-### Meu foco atual é desenvolver projetos com React + Java.
+### Meu foco atual é desenvolver projetos com React + Laravel.
 
 ##### Projetos recentes
 <ul>
