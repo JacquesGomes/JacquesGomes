@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo!
 
-### Meu foco atual é desenvolver projetos com React + Laravel.
+### Sou um desenvolvedor Fullstack com experiência de um ano em React + Laravel. Pratico programação diariamente há mais de dois anos.
 
 ##### Projetos recentes
 <ul>
