@@ -2,54 +2,10 @@
 
 ### Sou um desenvolvedor Fullstack com experiência de um ano em React + Laravel. Pratico programação diariamente há mais de dois anos.
 
-##### Projetos recentes
-<ul>
-    <li>
-    <p>:page_facing_up: <a href="https://jacquesgomes.com.br/quizTech/" target="_blank"> Quiz App - React + Laravel</a></p>
-  </li>
-    
 <li>
-<p>:chart_with_upwards_trend: <a href="https://jacquesgomes.com.br/despesas/" target="_blank"> Gerenciador de despesas - React</a></p>
-  </li>    
-
-<li>
-<p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio - React</a></p>
+<p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio</a></p>
 </li>
 
-<li>
-<p>:books: <a href="https://jacquesgomes.com.br/portalEducacional" target="_blank"> Portal Educacional - React</a></p>
-</li>
-  
-<li>
-<p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/php/login" target="_blank"> Login + Dashboard (Projeto fullstack) - PHP + MySQL + Vanilla Js + CSS + HTML </a></p>
-  </li>
-
-</ul>
-
-##### Projetos antigos
-<ul>
-  <li>
-    <p>:globe_with_meridians: <a href="https://jacquesgomes.com.br/dev/" target="_blank"> Portfólio Web (antigo)</a></p>
-  </li>
-  <li>
-    <p>:rage: <a href="https://jacquesgomes.com.br/testes/teste1/" target="_blank"> Brincando com a API do Chuck Norris e React </a></p>
-  </li>
-  <li>
-    <p>:necktie: <a href="https://jacquesgomes.com.br/adv/" target="_blank"> Advocacia (site pessoal)</a></p>
-  </li>
-  <li>
-    <p>:scissors: <a href="https://jacquesgomes.com.br/jsgames/" target="_blank">Pedra, papel ou tesoura</a></p>
-  </li>
-  <li>
-    <p>:pencil2: <a href="https://jacquesgomes.com.br/sketch" target="_blank">Quadro mágico</a></p>
-  </li>
-  <li>
-    <p>:bust_in_silhouette: <a href="https://jacquesgomes.com.br/signup-robot" target="_blank">Tela de login</a></p>
-  </li>
-  <li>
-    <p>:1234: <a href="https://jacquesgomes.com.br/calc" target="_blank">Calculadora</a></p>
-  </li>
-</ul>
 
 ---
   
