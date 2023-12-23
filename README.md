@@ -2,7 +2,7 @@
 
 ### Sou um desenvolvedor Fullstack com experiência de um ano em React + Laravel. Pratico programação diariamente há mais de dois anos.
 
-# Acesse o meu <p>:eight_spoked_asterisk: <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio</a>.
+# Acesse o meu <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio</a>.
 
 ---
   
