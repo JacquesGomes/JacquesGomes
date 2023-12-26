@@ -1,9 +1,9 @@
 ## Olá! Seja bem-vindo!
-
-### Sou um desenvolvedor Fullstack com experiência de um ano em React + Laravel. Pratico programação diariamente há mais de dois anos.
-
 # Acesse o meu <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio</a>.
 
+---
+
+<br>
 ---
   
 <p align="center">
