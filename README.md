@@ -1,11 +1,8 @@
 ## Olá! Seja bem-vindo!
 
-<br>
 # Acesse o meu <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio</a>.
 
-<br>
----
-  
+
 <p align="center">
 <a href="https://github.com/JacquesGomes">
 <img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&count_private=true&title_color=white&icon_color=white&theme=nord&include_all_commits=true&count_private=true"/>
