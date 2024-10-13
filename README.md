@@ -1,31 +1,33 @@
-## Olá! Seja bem-vindo!
+# Hi, I'm Jacques Gomes 👋
 
-# Acesse o meu <a href="https://jacquesgomes.com.br/portfolio/" target="_blank"> Portfólio</a>.
+🚀 **AI Engineer | Tech Lead | Full Stack Developer**  
+I'm passionate about **AI automation**, **LegalTech innovations**, and creating scalable solutions that transform industries. Whether it's building **RAG systems** that extract crucial insights or designing **agentic workflows** to automate complex processes, I thrive on pushing the boundaries of what's possible with technology.
 
-### Sou um desenvolvedor Fullstack com experiência de mais de dois anos em React + Laravel. Pratico programação diariamente há mais de três anos.
-
----
-
-<p align="center">
-<a href="https://github.com/JacquesGomes">
-<img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&count_private=true&title_color=white&icon_color=white&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JacquesGomes&layout=compact&langs_count=8&theme=nord&show_icons=true&count_private=true&title_color=white&icon_color=white"/>
-
-
-<img  src="https://streak-stats.demolab.com?user=JacquesGomes&theme=nord"/>
-
-</a>
-
-</p>
-
+### 🧠 Areas of Expertise:
+- **AI & LegalTech**: Automating workflows for legal professionals with RAG (Retrieval-Augmented Generation).
+- **Full Stack Development**: Expert in **Python (FastAPI)**, **PHP (Laravel)**, and **JavaScript (React)**, creating robust applications with **Material UI** for exceptional user interfaces.
+- **Front-End Mastery**: Extensive experience with **React and Material UI**, focusing on building responsive, intuitive UIs with seamless user experiences.
+- **Back-End Power**: Strong command of **Laravel**, developing dynamic, scalable solutions for web applications with integrated APIs and advanced data management.
+- **Vector Databases**: Implementing high-precision, low-latency semantic search with Qdrant.
+- **Automation & Workflow Orchestration**: Designing advanced agent systems and memory management.
+  
+🌐 Let's connect:  
+[LinkedIn](https://linkedin.com/in/jacques-gomes-627739240) | [GitHub](https://github.com/JacquesGomes)
 
 ---
 
-## Links úteis
+# Olá, eu sou Jacques Gomes 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jacques-gomes-627739240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/jacquesgomesadv/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jacquesgomesadv@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://wa.me/5584994514529" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+🚀 **Engenheiro de IA | Tech Lead | Desenvolvedor Full Stack**  
+Sou apaixonado por **automação com IA**, **inovações em LegalTech**, e por criar soluções escaláveis que transformam indústrias. Seja construindo **sistemas RAG** que extraem insights cruciais ou projetando **fluxos de trabalho agentizados** para automatizar processos complexos, meu foco é sempre expandir os limites do que é possível com tecnologia.
+
+### 🧠 Áreas de Expertise:
+- **IA & LegalTech**: Automatização de fluxos de trabalho para profissionais do setor jurídico com Geração Aumentada por Recuperação (RAG).
+- **Desenvolvimento Full Stack**: Expertise em **Python (FastAPI)**, **PHP (Laravel)** e **JavaScript (React)**, criando aplicações robustas com **Material UI** para interfaces de usuário excepcionais.
+- **Domínio Front-End**: Extensa experiência com **React e Material UI**, focando na criação de interfaces responsivas e intuitivas, proporcionando uma excelente experiência de usuário.
+- **Poder no Back-End**: Grande domínio de **Laravel**, desenvolvendo soluções dinâmicas e escaláveis para aplicações web com APIs integradas e gerenciamento avançado de dados.
+- **Bancos de Dados Vetoriais**: Implementação de buscas semânticas de alta precisão com baixa latência usando Qdrant.
+- **Automação & Orquestração de Fluxos**: Design de sistemas avançados de agentes e gerenciamento de memória.
+  
+🌐 Vamos nos conectar:  
+[LinkedIn](https://linkedin.com/in/jacques-gomes-627739240) | [GitHub](https://github.com/JacquesGomes)
