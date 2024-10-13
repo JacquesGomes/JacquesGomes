@@ -8,9 +8,10 @@ I'm passionate about **AI automation**, **LegalTech innovations**, and creating 
 - **Full Stack Development**: Expert in **Python (FastAPI)**, **PHP (Laravel)**, and **JavaScript (React)**, creating robust applications with **Material UI** for exceptional user interfaces.
 - **Front-End Mastery**: Extensive experience with **React and Material UI**, focusing on building responsive, intuitive UIs with seamless user experiences.
 - **Back-End Power**: Strong command of **Laravel**, developing dynamic, scalable solutions for web applications with integrated APIs and advanced data management.
+- **DevOps Expertise**: Skilled in **Docker**, **GitHub Actions**, and CI/CD pipelines to ensure smooth and efficient deployment processes, scalability, and automation.
 - **Vector Databases**: Implementing high-precision, low-latency semantic search with Qdrant.
 - **Automation & Workflow Orchestration**: Designing advanced agent systems and memory management.
-  
+
 🌐 Let's connect:  
 [LinkedIn](https://linkedin.com/in/jacques-gomes-627739240) | [GitHub](https://github.com/JacquesGomes)
 
@@ -26,8 +27,9 @@ Sou apaixonado por **automação com IA**, **inovações em LegalTech**, e por c
 - **Desenvolvimento Full Stack**: Expertise em **Python (FastAPI)**, **PHP (Laravel)** e **JavaScript (React)**, criando aplicações robustas com **Material UI** para interfaces de usuário excepcionais.
 - **Domínio Front-End**: Extensa experiência com **React e Material UI**, focando na criação de interfaces responsivas e intuitivas, proporcionando uma excelente experiência de usuário.
 - **Poder no Back-End**: Grande domínio de **Laravel**, desenvolvendo soluções dinâmicas e escaláveis para aplicações web com APIs integradas e gerenciamento avançado de dados.
+- **Experiência em DevOps**: Habilidade com **Docker**, **GitHub Actions** e pipelines de CI/CD, garantindo processos de deploy eficientes, escaláveis e automáticos.
 - **Bancos de Dados Vetoriais**: Implementação de buscas semânticas de alta precisão com baixa latência usando Qdrant.
 - **Automação & Orquestração de Fluxos**: Design de sistemas avançados de agentes e gerenciamento de memória.
-  
+
 🌐 Vamos nos conectar:  
 [LinkedIn](https://linkedin.com/in/jacques-gomes-627739240) | [GitHub](https://github.com/JacquesGomes)
