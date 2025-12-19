@@ -56,19 +56,8 @@ React · Tailwind
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacquesGomes&theme=nord_dark&utcOffset=-3"
-  />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,docker,gcp&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,laravel,php,js,react,postgres,redis,docker,gcp&theme=dark" />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=500&color=88C0D0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Tech+Lead;RAG+Systems+%26+Agentic+Workflows;LegalTech+%26+Data+Automation"
-  />
-</p>
 
 
