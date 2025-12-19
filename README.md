@@ -56,7 +56,7 @@ React · Tailwind
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,docker,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,docker,gcp,aws,firebase,githubactions&theme=dark" />
 </p>
 
 
