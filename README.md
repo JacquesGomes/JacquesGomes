@@ -46,7 +46,4 @@ React · Tailwind
 
 ## GitHub Stats
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacquesGomes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesGomes&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
-</p>
+<p align="center"> <a href="https://github.com/JacquesGomes"> <img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacquesGomes&show_icons=true&count_private=true&title_color=white&icon_color=white&theme=nord&include_all_commits=true&count_private=true"/> <img height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JacquesGomes&layout=compact&langs_count=8&theme=nord&show_icons=true&count_private=true&title_color=white&icon_color=white"/> <img src="https://streak-stats.demolab.com?user=JacquesGomes&theme=nord"/> </a> </p>
